@@ -71,7 +71,7 @@
 
 ---
 
----
+
 
 ## ⚽ You'll Never Code Alone
 
@@ -86,13 +86,3 @@
 </p>
 
 
-## 🧠 Mini Fun Snippet
-
-```js
-const favoriteClub = "Liverpool FC";
-const motto = "You'll Never Walk Alone";
-const skills = ["React", "Tailwind", "Cybersecurity", "TypeScript"];
-
-function codeLikeAChamp(skills) {
-  return `🏆 Basel codes with ${skills.join(", ")} — YNWA!`;
-}
