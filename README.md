@@ -71,6 +71,21 @@
 
 ---
 
+---
+
+## ⚽ You'll Never Code Alone
+
+<p align="center">
+  <a href="#">
+    <img src="https://img.shields.io/badge/Liverpool_FC-Fan-EA1E1E?style=for-the-badge&logo=premier-league&logoColor=white"/>
+  </a>
+  <br>
+  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="200" alt="LFC YNWA GIF"/>
+  <br>
+  <i>Passionate coder by day, Liverpool fan for life. YNWA ❤️</i>
+</p>
+
+
 ## 🧠 Mini Fun Snippet
 
 ```js
