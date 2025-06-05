@@ -11,8 +11,9 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=You'll+Never+Code+Alone+⚽;Front-End+Dev+%2B+LFC+Fan+%2B+Cybersecurity+Nerd;Explosive+Ideas+Into+Code+%F0%9F%92%A5;React.+Tailwind.+TypeScript.+Git.+Goals!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C8FF&center=true&vCenter=true&width=700&lines=You'll+Never+Code+Alone;Front-End+Dev+and+LFC+Fan;Explosive+Ideas+Into+Code;React,+Tailwind,+TypeScript,+Git" />
 </p>
+
 
 ---
 
