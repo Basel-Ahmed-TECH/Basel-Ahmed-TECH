@@ -1,6 +1,4 @@
-<!-- 🔥 Basel Ahmed | Creative & Explosive GitHub Profile README 🔥 -->
 
-<!-- Centered Name & Animated Header -->
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"/>
   Hey, I'm <span style="color:#00c8ff;">Basel Ahmed</span>!
@@ -62,9 +60,17 @@
   <a href="https://linkedin.com/in/basel-ahmed-tech" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:basel.tech.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="mailto:basel.tech.dev.cs@gmail.com">
+    <img src="https://img.shields.io/badge/Email_1-Basel.tech.dev.cs-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  <a href="mailto:basel.ahmed.vs2000@gmail.com">
+    <img src="https://img.shields.io/badge/Email_2-Basel.ahmed.vs2000-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="mailto:basel.ahmed.cs@gmail.com">
+    <img src="https://img.shields.io/badge/Email_3-Basel.ahmed.cs-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
 </p>
 
 ---
