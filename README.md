@@ -23,7 +23,6 @@
 - 🕵️‍♂️ Also exploring Penetration Testing and Cybersecurity 🔐
 - 📚 Currently learning: **Next.js**, **Framer Motion**, **TypeScript**
 - 🧠 Dream: Build projects that combine design + AI + performance
-- ⚽ Huge **Liverpool FC** fan – *"You'll Never Walk Alone"* 🔴
 
 ---
 
@@ -67,9 +66,6 @@
   </a>
   <a href="mailto:basel.ahmed.cs@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-CS.Egypt-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Liverpool_FC-Fan-EA1E1E?style=for-the-badge&logo=premier-league&logoColor=white"/>
   </a>
 </p>
 
