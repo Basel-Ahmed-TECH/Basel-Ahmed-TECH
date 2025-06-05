@@ -21,7 +21,8 @@
 - ✨ Skilled in **HTML/CSS**, **JavaScript**, **React**, **Tailwind**, **GSAP**, and more.
 - 🎨 Strong eye for **UI/UX Design** – bridging design and code is my thing.
 - 🔍 Currently learning: **Next.js**, **Framer Motion**, **TypeScript**
-- 📫 Reach me: [basel.tech.dev@gmail.com](mailto:basel.tech.dev@gmail.com)
+- 📫 Reach me: [basel.tech.dev.cs@gmail.com](mailto:basel.tech.dev.cs@gmail.com)
+  [basel.ahmed.vs2000@gmail.com](mailto:basel.ahmed.vs2000@gmail.com)
 
 ---
 
