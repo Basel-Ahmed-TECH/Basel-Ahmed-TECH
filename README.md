@@ -14,7 +14,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C8FF&center=true&vCenter=true&width=700&lines=You'll+Never+Code+Alone;Front-End+Developer+%F0%9F%8C%90;Penetration+Tester+%F0%9F%94%92;Explosive+Ideas+into+Code+%F0%9F%92%A5;Software+Engineer+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=a259ff&center=true&vCenter=true&width=700&lines=You'll+Never+Code+Alone;Front-End+Developer+%F0%9F%8C%90;Penetration+Tester+%F0%9F%94%92;Explosive+Ideas+into+Code+%F0%9F%92%A5;Software+Engineer+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 
 
