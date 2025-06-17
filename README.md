@@ -1,9 +1,16 @@
 <!-- 🚀 Basel Ahmed | You'll Never Code Alone -->
 
 <h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"/>
-  Hey, I'm <span style="color:#00c8ff;">Basel Ahmed</span>!  
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="40"/>
+  Hey, I'm <svg width="230" height="40">
+  <defs>
+    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#00c8ff;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#a259ff;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <text x="0" y="30" fill="url(#grad1)" font-size="28" font-family="Segoe UI, sans-serif" font-weight="bold">Basel Ahmed</text>
+</svg>
+
 </h1>
 
 <p align="center">
